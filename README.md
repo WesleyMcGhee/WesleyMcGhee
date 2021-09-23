@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WesleyMcGhee
-- 👀 I’m interested in Coding, Astronmy, and Web Development
+- 👀 I’m interested in Coding, Astronomy, and Web Development
 - 🌱 I’m currently learning JavaScript, Rust, and Japanese
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me wesmcghee6372@gmail.com

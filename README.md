@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @WesleyMcGhee
-- 👀 I’m interested in Coding, Astronomy, and Web Development
-- 🌱 I’m currently learning JavaScript, Rust, and Japanese
-- 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me wesmcghee6372@gmail.com
+# Wesley McGhee
+Hey! I am Wesley, or AidoruGames over on [Twitch](https://www.twitch.tv/aidorugames) where I make some dumb projects, and learn new things.
 
-<!---
-WesleyMcGhee/WesleyMcGhee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Stats 
+
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyMcGhee&theme=dark&show_icons=true)

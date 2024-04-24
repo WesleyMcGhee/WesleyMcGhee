@@ -1,5 +1,5 @@
 # Wesley McGhee
-Hey! I am Wesley, or AidoruGames over on [Twitch](https://www.twitch.tv/aidorugames) where I make some dumb projects, and learn new things.
+Hey! I am Wesley, or AidoruGames over on [Twitch](https://www.twitch.tv/aidoru_games) where I make some dumb projects, and learn new things.
 
 ## Stats 
 
